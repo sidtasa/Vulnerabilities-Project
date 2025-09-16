@@ -23,6 +23,6 @@ https://www.dcceew.gov.au/sites/default/files/documents/assessing-vulnerability-
 * Normalized Difference Vegetation Index.txt - Google Earth Engine code to extract Normalized Difference Vegetation Index rasters 
 * bws_vulnerability.ipynb - Main python notebook for final data processing to produce outputs
 * wit_metrics.ipynb - Python notebook for calculating metrics on the Wetland insight tool data
-* workers.py - Python script of metric calculation function setup for multiprocessing
+* workers.py - Python script of metric calculation function setup for multiprocessing 
 
 
